@@ -32,7 +32,6 @@ console.log("\n...Again, this time with more \"for\"!\n")
 
 for (var a = 1; a <= ingredients.length; a++) {
   console.log(ingredients[ingredients.length -a]);
-
+}
 
 //thanks Lighthouse... now I'm hungry.
-}
