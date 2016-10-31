@@ -8,7 +8,7 @@ function loopyLighthouse(range, multiples, words) {
       text += words[0];
     if (num % multiples[1] === 0)
       text += words[1];
-    console.log(text||i);
+    console.log( text || i );
     num++;
   }
 }
